@@ -9,8 +9,6 @@
 ------
 :heart: :point_right: 【地址四】 ：https://wvkhk.xyz
 ------
-:heart: :point_right: 【potato】 ：蔡萝莉
-------
 :heart: :point_right: 【邮箱联系方式】 ：cyysshipin@gmail.com
 ------
 :sunglasses:重要提醒:sunglasses:收藏本页面，避免迷路！
