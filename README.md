@@ -32,4 +32,19 @@
 
 <span style="color: green"> Some green text </span>
 
+ 
+```json 
+ //着色代码
+```
+```html 
+ / /着色代码
+```
+```js 
+ //着色代码
+```
+```css 
+ //代码用于着色
+```
+ //等。
+ 
 
