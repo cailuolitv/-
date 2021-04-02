@@ -23,6 +23,6 @@
 -
 
 :sunglasses:域名更新时间：2021/4/2
-:sunglasses:访问正确的网址,网址前面加入https://，解决运营商域名劫持：
-:sunglasses:正确访问：https://f0pre7.xyz
-:sunglasses:错误访问(http没加s)：http://f0pre7.xyz
+# 访问正确的网址,网址前面加入https://，解决运营商域名劫持：
+# 正确访问：https://f0pre7.xyz
+# 错误访问(http没加s)：http://f0pre7.xyz
