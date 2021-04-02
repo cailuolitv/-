@@ -28,5 +28,5 @@
 
 正确访问：https://f0pre7.xyz
 
-<font color="#FF0000" >错误访问(http没加s)：http://f0pre7.xyz</font>
+<font color=#FF0000 >错误访问(http没加s)：http://f0pre7.xyz</font>
 
