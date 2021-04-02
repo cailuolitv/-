@@ -28,23 +28,3 @@
 
 正确访问：https://f0pre7.xyz
 
-
-
- 
-```json 
- //着色代码
-```
-```html 
- / /着色代码
-<span style="color: green"> Some green text </span>
-<font color=#FF0000 >错误访问(http没加s)：http://f0pre7.xyz</font>
-```
-```js 
- //着色代码
-```
-```css 
- //代码用于着色
-```
- //等。
- 
-
