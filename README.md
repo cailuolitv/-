@@ -30,3 +30,6 @@
 
 <font color=#FF0000 >错误访问(http没加s)：http://f0pre7.xyz</font>
 
+<font color=#00ffff> 字体改成蓝色了 </font>
+
+
