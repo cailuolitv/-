@@ -1,15 +1,15 @@
 # 蔡萝莉
 :sunglasses::sunglasses:蔡萝莉 地址发布:sunglasses::sunglasses:
 ==
-:heart: :point_right: 【地址一】 ：https://jufgi.xyz
+:heart: :point_right: 【地址一】 ：https://wdeef.xyz
 ------
-:heart: :point_right: 【地址二】 ：https://ic96x.xyz
+:heart: :point_right: 【地址二】 ：https://vdf31.xyz
 ------
-:heart: :point_right: 【地址三】 ：https://rxdwm.xyz
+:heart: :point_right: 【地址三】 ：https://wpqk6.xyz
 ------
-:heart: :point_right: 【地址四】 ：https://khtni.xyz
+:heart: :point_right: 【地址四】 ：https://6sqk2.xyz
 ------
-:heart: :point_right: 【地址五】 ：https://198p0.xyz
+:heart: :point_right: 【地址五】 ：https://73gaw.xyz
 ------
 :heart: :point_right: 【邮箱联系方式】 ：cyysshipin@gmail.com
 ------
@@ -22,7 +22,7 @@
 
 -
 
-:sunglasses:域名更新时间：2021/6/5
+:sunglasses:域名更新时间：2021/6/23
 
 访问正确的网址,网址前面加入https://，解决运营商域名劫持：
 
